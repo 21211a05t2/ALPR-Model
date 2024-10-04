@@ -1,6 +1,6 @@
-path: C:/Users/divya/Desktop/ALPR8/code/data  # dataset root dir
-train: images/train  # train images (relative to 'path')
-val: images/valid  # val images (relative to 'path')
+path: C:/Users/divya/Desktop/ALPR8/code/data  
+train: images/train
+val: images/valid  
 
 # Classes
 names: ['License_Plate']
